@@ -1,0 +1,17 @@
+emaild : deakn@example.com             --admin
+pass: forgotten
+
+emaild : krushnabhalke2408@gmail.com  --admin
+pass: 123258
+
+emaild : krushnabhalke@gmail.com      --librarian
+pass: 123456789
+
+emaild : abc@gmail.com                --normal user
+pass: abc123
+
+emaild : user2@gmail.com              --normal user
+pass: asdf;lkj
+
+emaild : user3@gmail.com              --normal user
+pass:asdfg;lkjh
